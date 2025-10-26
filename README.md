@@ -1,5 +1,5 @@
 <!-- Banner -->
-
+![](https://komarev.com/ghpvc/?username=Therushi14&color=blueviolet&style=flat-square)
 > “Turning curiosity into research, and research into innovation.”
 
 ---
