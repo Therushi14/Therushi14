@@ -6,7 +6,7 @@
 
 ### Hey there, I'm Rushi 👋  
 
-Building **intelligent, impactful, and practical applications** for both the **web and AI research**, while contributing to **open source**.
+Building **intelligent, impactful, and practical applications** for both the **web and AI research**.
 
 - 🎓 **CS Major**
 - 🧠 Passionate about **research specific to Large Language Models (LLMs)**  
