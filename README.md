@@ -1,16 +1,30 @@
-## Hi there 👋
+<!-- Banner -->
 
-<!--
-**Therushi14/Therushi14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> “Turning curiosity into research, and research into innovation.”
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Hey there, I'm Rushi 👋  
+
+Building **intelligent, impactful, and practical applications** for both the **web and AI research**, while contributing to **open source**.
+
+- 🎓 **CS Major**
+- 🧠 Passionate about **research specific to Large Language Models (LLMs)**  
+- 🧩 Currently exploring **Reinforcement Learning (RL)** and its synergy with LLMs  
+- 🤝 Actively contributing to **open source**, **AI communities**, and **hackathons**
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Therushi14&show_icons=true&theme=radical" alt="Rushi's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Therushi14&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+
+### ✨ “Keep building. Keep learning. Keep evolving.” ✨
