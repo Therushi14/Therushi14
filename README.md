@@ -1,6 +1,7 @@
 <!-- Banner -->
-![](https://komarev.com/ghpvc/?username=Therushi14&color=blueviolet&style=flat-square)
-> “Turning curiosity into research, and research into innovation.”
+
+> “If I can’t build it, I don’t understand it.”
+>                                          - Andrej Karpathy
 
 ---
 
